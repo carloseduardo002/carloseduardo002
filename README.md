@@ -1,5 +1,5 @@
 Olá, bem vindo ao meu perfil
-- 🏛 Sou estudante de ADS
+- 🏛 Cursando ADS
 - 🌱 estou estudando atualmente django
 
 <div style="display: inline_block"><br>
