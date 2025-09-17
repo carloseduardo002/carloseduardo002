@@ -16,7 +16,8 @@ Olá, bem vindo ao meu perfil
 
 ###
 <h3 align="left">🔥   My Stats :</h3>
-![Snake animation](https://github.com/carloseduardo002/carloseduardo002/blob/output/github-contribution-grid-snake.svg)
+![Snake animation dark](https://raw.githubusercontent.com/carloseduardo002/carloseduardo002/output/github-contribution-grid-snake-dark.svg)
+
 
 
 <div align="center">
