@@ -15,10 +15,9 @@ Olá, bem vindo ao meu perfil
 </div>
 
 ###
-<h3 align="left">🔥   My Stats :</h3>
-![Snake animation dark](https://raw.githubusercontent.com/carloseduardo002/carloseduardo002/output/github-contribution-grid-snake-dark.svg)
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/carloseduardo002/carloseduardo002/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=carloseduardo002&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
