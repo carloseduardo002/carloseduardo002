@@ -16,8 +16,8 @@ Olá, bem vindo ao meu perfil
 
 ###
 <p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carloseduardo002&theme=github_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carloseduardo002&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api?username=carloseduardo002&theme=radical&show_icons=true" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carloseduardo002&theme=github_dark" />
 </p>
 
 <br clear="both">
