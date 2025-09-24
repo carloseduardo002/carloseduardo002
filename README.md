@@ -15,8 +15,9 @@ Olá, bem vindo ao meu perfil
 </div>
 
 ###
-<p align="center">
-  <img src="https://raw.githubusercontent.com/carloseduardo002/carloseduardo002/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carloseduardo002&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carloseduardo002&theme=tokyonight" />
 </p>
 
 <br clear="both">
