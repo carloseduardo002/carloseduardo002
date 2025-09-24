@@ -1,4 +1,4 @@
-Olá, bem vindo ao meu perfil
+## Olá, bem vindo ao meu perfil
 - 🏛 Cursando ADS
 - 🌱 estou estudando atualmente django
 - 💌 eduafrat@gmail.com
